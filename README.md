@@ -1,0 +1,1 @@
+# CSGO Discord Bot
